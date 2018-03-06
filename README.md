@@ -1,3 +1,5 @@
+# Innovaccer Summer Hackercamp - Infrastructure
+
 ## Assignment objectives:
 1. Finds out n largest files in a directory.
 2. Organizes files in a directory according to their file extensions.
@@ -33,7 +35,7 @@
     --delPre DEL_PREFIX   Deletes a prefix to be omitted
     --nlargest            Finds n largest files
     ```
- 4. To organize files ina directory based on their extension:
+ 4. To organize files in a directory based on their extension:
  
     ```
     cd path_to_repository/innovaccer_hackercamp_infra/python organize.py --help
