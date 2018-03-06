@@ -1,0 +1,1 @@
+{"home": "C:/Users/Rohan/Downloads", "destination": "E:", "extensions": [".jpeg", ".docx", ".pdf", ".mkv", ".mp4"]}
