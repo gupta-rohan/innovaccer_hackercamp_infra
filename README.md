@@ -11,7 +11,7 @@
  
     ```
     cd path_to_repository
-    git clone git://github.com/ 
+    git clone https://github.com/gupta-rohan/innovaccer_hackercamp_infra.git 
     ```
  3. To find out n largest files in a directory:
  
